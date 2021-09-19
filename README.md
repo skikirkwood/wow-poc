@@ -1,5 +1,7 @@
 # ✨ wow-poc ✨
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1e0b239f-8551-41ed-b528-ecb2e34139fb/deploy-status)](https://app.netlify.com/sites/wow-poc-28a76/deploys)
+
 <img src="https://themes.stackbit.com/images/azimuth-demo-1024x768.png" width="600">
 
 This is a [Next.js](https://nextjs.org) site using [Contentful](https://www.contentful.com) as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute.
