@@ -39,6 +39,7 @@ export default class SectionPricing extends React.Component {
                       <div className="plan-content">
                         {markdownify(_.get(plan, 'details', null))}
                       </div>
+                      <div>
                       {_.get(plan, 'actions', null) && (
                       <div className="plan-footer block-buttons">
                         <CtaButtons {...this.props} actions={_.get(plan, 'actions', null)} />
